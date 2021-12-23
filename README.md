@@ -4,5 +4,6 @@ A Twitter Bot that tracks and posts South Africa's COVID-19 stats as simple expr
 # Stack
 Python  
 Tweepy  
+Flask  
 Heroku  
 Firebase  

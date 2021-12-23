@@ -1,8 +1,8 @@
 # SACoronaTrack
-Twitter Bot to track and post South Africa's COVID-19 stats
+A Twitter Bot that tracks and posts South Africa's COVID-19 stats as simply expressed tweets.
 
 # Stack
-Python
-Tweepy
-Heroku
-Firebase
+- Python
+- Tweepy
+- Heroku
+- Firebase
